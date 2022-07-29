@@ -8,7 +8,7 @@ import Names from "./examples/Names";
 import Counter from "./examples/Counter";
 import EffectCounter from "./examples/EffectCount";
 import Fibonacci from "./examples/Fibonacci";
-import OnMount from "./examples/onMount";
+import OnMount from "./examples/OnMount";
 
 function Home() {
 	return (
